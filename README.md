@@ -20,6 +20,7 @@
 <th>Loss</th>
 <th>Points</th>
 <th>Goals</th>
+<th>Played</th>
 </tr>
 
 <tr class="odd">
@@ -29,6 +30,7 @@
 <td>0</td>
 <td>4</td>
 <td>5</td>
+<td>2</td>
 </tr>
 <tr class="even">
 <td>eliott</td>
@@ -37,12 +39,14 @@
 <td>1</td>
 <td>3</td>
 <td>6</td>
+<td>2</td>
 </tr>
 <tr class="odd">
 <td>lexboy</td>
 <td>0</td>
 <td>1</td>
 <td>0</td>
+<td>1</td>
 <td>1</td>
 <td>1</td>
 </tr>
@@ -53,9 +57,11 @@
 <td>1</td>
 <td>0</td>
 <td>1</td>
+<td>1</td>
 </tr>
 <tr class="odd">
 <td>arturo</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
