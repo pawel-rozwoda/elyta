@@ -25,12 +25,12 @@
 
 <tr class="odd">
 <td>wons</td>
-<td>6</td>
+<td>9</td>
+<td>3</td>
 <td>2</td>
-<td>0</td>
-<td>20</td>
-<td>20</td>
-<td>8</td>
+<td>30</td>
+<td>30</td>
+<td>14</td>
 </tr>
 <tr class="even">
 <td>arturo</td>
@@ -42,31 +42,31 @@
 <td>8</td>
 </tr>
 <tr class="odd">
-<td>lexboy</td>
-<td>3</td>
-<td>3</td>
+<td>magnes</td>
+<td>4</td>
 <td>2</td>
-<td>12</td>
-<td>15</td>
 <td>8</td>
+<td>14</td>
+<td>23</td>
+<td>14</td>
 </tr>
 <tr class="even">
-<td>kilimandzarro</td>
-<td>2</td>
-<td>0</td>
-<td>6</td>
-<td>6</td>
+<td>lexboy</td>
+<td>3</td>
+<td>5</td>
+<td>4</td>
 <td>14</td>
-<td>8</td>
+<td>21</td>
+<td>12</td>
 </tr>
 <tr class="odd">
-<td>magnes</td>
-<td>1</td>
-<td>0</td>
-<td>7</td>
+<td>kilimandzarro</td>
 <td>3</td>
-<td>12</td>
+<td>1</td>
 <td>8</td>
+<td>10</td>
+<td>16</td>
+<td>12</td>
 </tr>
 </tbody>
 </table>
@@ -207,6 +207,66 @@
 <td>4</td>
 <td>1</td>
 </tr>
+<tr class="odd">
+<td>magnes</td>
+<td>wons</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>magnes</td>
+<td>lexboy</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>magnes</td>
+<td>kilimandzarro</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>wons</td>
+<td>magnes</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>wons</td>
+<td>lexboy</td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>wons</td>
+<td>kilimandzarro</td>
+<td>4</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>lexboy</td>
+<td>magnes</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>lexboy</td>
+<td>wons</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>kilimandzarro</td>
+<td>magnes</td>
+<td>0</td>
+<td>3</td>
+</tr>
+<tr class="even">
+<td>kilimandzarro</td>
+<td>wons</td>
+<td>1</td>
+<td>0</td>
+</tr>
 </tbody>
 </table>
 
@@ -226,43 +286,11 @@
 
 <tr class="odd">
 <td>magnes</td>
-<td>wons</td>
-</tr>
-<tr class="even">
-<td>magnes</td>
-<td>lexboy</td>
-</tr>
-<tr class="odd">
-<td>magnes</td>
-<td>kilimandzarro</td>
-</tr>
-<tr class="even">
-<td>magnes</td>
 <td>arturo</td>
-</tr>
-<tr class="odd">
-<td>wons</td>
-<td>magnes</td>
-</tr>
-<tr class="even">
-<td>wons</td>
-<td>lexboy</td>
-</tr>
-<tr class="odd">
-<td>wons</td>
-<td>kilimandzarro</td>
 </tr>
 <tr class="even">
 <td>wons</td>
 <td>arturo</td>
-</tr>
-<tr class="odd">
-<td>lexboy</td>
-<td>magnes</td>
-</tr>
-<tr class="even">
-<td>lexboy</td>
-<td>wons</td>
 </tr>
 <tr class="odd">
 <td>lexboy</td>
@@ -271,14 +299,6 @@
 <tr class="even">
 <td>lexboy</td>
 <td>arturo</td>
-</tr>
-<tr class="odd">
-<td>kilimandzarro</td>
-<td>magnes</td>
-</tr>
-<tr class="even">
-<td>kilimandzarro</td>
-<td>wons</td>
 </tr>
 <tr class="odd">
 <td>kilimandzarro</td>
